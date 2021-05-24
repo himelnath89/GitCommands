@@ -1,5 +1,4 @@
-# GitCommands
-Useful git commands
+# Useful git commands
 
 # Checkout a remote branch
 git checkout --track origin/dev**
